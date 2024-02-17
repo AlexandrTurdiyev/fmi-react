@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Cormorant';
+    src: url('./cormorant/Cormorant-Bold.ttf') format('TrueType');
+    font-weight: 700; /* Bold */
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-BoldItalic.ttf") format('TrueType');
+    font-weight: 700; /* Bold */
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-Italic.ttf") format('TrueType');
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-Light.ttf") format('TrueType');
+    font-weight: 300; /* Lighter */
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-LightItalic.ttf") format('TrueType');
+    font-weight: 300; /* Lighter */
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-Medium.ttf") format('TrueType');
+    font-weight: 500; /* Medium */
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-MediumItalic.ttf") format('TrueType');
+    font-weight: 500; /* Medium */
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-Regular.ttf") format('TrueType');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-SemiBold.ttf") format('TrueType');
+    font-weight: 600; /* SemiBold */
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Cormorant';
+    src: url("./cormorant/Cormorant-SemiBoldItalic.ttf") format('TrueType');
+    font-weight: 600; /* SemiBold */
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'PoiretOne';
+    src: url('./poiret-one/PoiretOne-Regular.ttf') format('TrueType');
+    font-display: swap;
+  }
